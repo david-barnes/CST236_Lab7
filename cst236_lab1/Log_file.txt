@@ -1,0 +1,192 @@
+What is the meaning of life?:
+I don't know, please provide the answer
+0.00871172521745
+
+Please clear memory?:
+None
+0.005718177367
+
+What is the meaning of life?:
+I don't know, please provide the answer
+0.00839081915644
+
+What units can I convert?:
+You may convert to/from the following units: feet, millimeters, miles, meters, yards, inches, kilometers, centimeters, micrometers, nanometers, 
+0.00560616744585
+
+Convert 10 meters to yards:
+10.9361 yards
+0.000604948097344
+
+What is the 5 digit of fibonacci?:
+3
+0.00772773932786
+
+What do you know?:
+I know the following things: Why is it called the Legend of Zelda when you play as Link? What is the area of quadrilateral with sides and angles ? What is the area of triangle with sides ? What type of quadrilateral is ? What time is it ? What type of triangle is ? How much is a percent tip on a bill of ? What is the digit of pi ? When does Half-Life 3 come out? What is the status of ? What branch is ? Is the in the repo? Please clear memory? What units can I convert? What is the deal with ? How many day until Christmas? How do I make a PBJ 2.0? What is the meaning of life, the universe, and everything? Open the door Hal? Where did come from? What is the digit of fibonacci ? What is the total bill on if the sales tax is percent? What do you know? 
+0.00767102544374
+
+Why is it called the Legend of Zelda when you play as Link?:
+Becuase every princess is named Zelda after the in-game legend about the first princess, who was named Zelda.
+
+What is the meaning of life, the univers, and everything?:
+42
+
+When does Half-Life 3 come out?:
+ha ha ha, as if that will ever happen.
+
+Open the door Hal?:
+I'm afraid I can't do that Twistedpiethon
+
+How do I make a PBJ 2.0?:
+On the bottom bun in vertical rows place creamy peanut-butter, nutella, and crunchy peanut-butter. Then on the top bun in horizontal rows place jelly/jam, honey, and marshmellow spread.
+
+What is the 5 digit of pi?:
+5
+0.00551258953704
+
+What is the 1 digit of pi?:
+3
+0.0042781173259
+
+What time is it?:
+03-10-2016 14:45:01
+
+How many days until Christmas?:
+290
+0.00594739598201
+
+What is the area of a quadrilateral with sides and corners 2 4 2 4 90 90 90 90?:
+8.0
+0.00228556953028
+
+What is the area of a quadrilateral with sides and corners 4 4 4 4 60 120 60 120?:
+13.856
+0.00250344536846
+
+What is the area of a quadrilateral with sides and corners 4 5 4 4 90 90 90 90?:
+Can not determine area because the quadrilateral is disconnected
+0.00225768520391
+
+What is the total bill on 39.95 if the sales tax is 6.5 percent?:
+42.55
+0.0124775271234
+
+How much is a 15 percent tip on a bill of 17.65?:
+2.65
+0.00388915460394
+
+What is the area of a triangle with sides 6 5 5?:
+12.0
+0.00242168285218
+
+How are you?:
+I don't know, please provide the answer
+0.00633068731556
+
+Can I ask you a question?:
+Was that a question?
+0.000574700692477
+
+How are you:
+Was that a question?
+0.000566193609858
+
+42:
+Not A String!
+0.000609201638653
+
+What type of triangle has 2 2 4?:
+isosceles
+0.00300678109008
+
+How many sides does a quadrilateral have?:
+I don't know, please provide the answer
+0.00934928379817
+
+What type of quadrilateral is 3 3 3 3 60 120 60 120?:
+rhombus
+0.00258048172773
+
+What type of triangle is 2 2 4?:
+isosceles
+0.00294486843324
+
+What type of triangle is 2 2 4 4?:
+Error: get_triangle_type() takes at most 3 arguments (4 given)
+0.00299023954054
+
+How many sides and corners does a quadrilateral have?:
+I don't know, please provide the answer
+0.0106451960504
+
+How many sides and corners does a quadrilateral have?:
+four sides and corners.
+
+How many sides does a quadrilateral have?:
+I don't know, please provide the answer
+0.00902223373304
+
+How many sides does a quadrilateral have?:
+four sides.
+
+What type of quadrilateral is ?:
+invalid
+0.00227280890635
+
+What branch is <nose2.cfg>?:
+DavidB
+0.0037346092697
+
+What is the deal with <nose2.cfg>?:
+4655434B5448495321, 2/27/2016, David Barnes
+0.00564870285895
+
+Is the <nose2.cfg> in the repo?:
+Yes
+0.00935070164527
+
+What is the status of <filename>?:
+Error: Path filename does not exist cannot get git file info
+0.00376060313325
+
+Is the <filename> in the repo?:
+No
+0.00501965136085
+
+Where did <nose2.cfg> come from?:
+https://github.com/OregonTech/DavidB
+0.00839365485064
+
+What is the status of <nose2.cfg>?:
+nose2.cfg is a dirty repo
+0.0067527331366
+
+What is the status of <nose2.cfg>?:
+nose2.cfg is up to date
+0.00665631953359
+
+What type of quadrilateral is 3 3 3 3 60 120 60 120?:
+rhombus
+0.00264712054158
+
+How many days until Christmas?:
+290
+0.00635479071632
+
+Convert 10 meters to yards:
+10.9361 yards
+0.00063472288651
+
+What is the 1000 digit of fibonacci?:
+9
+0.00867155288286
+
+What is the deal with <nose2.cfg>?:
+4655434B5448495321, 2/27/2016, David Barnes
+0.00591809380855
+
+What is the area of a quadrilateral with sides and corners 20 20 20 20 60 120 60 120?:
+346.41
+0.00269627257449
+

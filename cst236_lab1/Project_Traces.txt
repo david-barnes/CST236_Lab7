@@ -1,0 +1,238 @@
+Requirements
+************
+
+#0001:
+	test_ask_question_with_answer
+	test_equilateral_all_float
+	test_equilateral_all_int
+	test_isosceles_all_int
+	test_scalene_all_int
+	test_triangle_dict
+	test_triangle_invalid_char
+	test_triangle_invalid_int
+	test_triangle_list
+	test_triangle_tuple
+
+#0002:
+	test_requirement_triangle_area
+	test_ask_question_with_answer
+	test_equilateral_all_float
+	test_equilateral_all_int
+	test_isosceles_all_int
+	test_scalene_all_int
+	test_triangle_dict
+	test_triangle_invalid_char
+	test_triangle_invalid_int
+	test_triangle_list
+	test_triangle_tuple
+
+#0003:
+	test_ask_question_quadrilateral
+	test_disconnected_corners_int
+	test_invalid_corners_char
+	test_invalid_corners_zeros
+	test_rectangle_corners_float
+	test_rectangle_corners_int
+	test_rectangle_corners_list
+	test_rhombus_corners_int
+	test_square_corners_dict
+	test_square_corners_int
+	test_square_corners_tuple
+
+#0004:
+	test_requirement_quad_area
+	test_requirement_quad_area2
+	test_requirement_quad_area3
+	test_ask_question_quadrilateral
+	test_quad_invalid_char
+	test_quad_invalid_int
+	test_quad_invalid_zeros
+	test_rectangle_float
+	test_rectangle_int
+	test_rectangle_list
+	test_square_dict
+	test_square_int
+	test_square_tuple
+	test_disconnected_corners_int
+	test_invalid_corners_char
+	test_invalid_corners_zeros
+	test_rectangle_corners_float
+	test_rectangle_corners_int
+	test_rectangle_corners_list
+	test_rhombus_corners_int
+	test_square_corners_dict
+	test_square_corners_int
+	test_square_corners_tuple
+
+#0005:
+	test_requirement_quad_area
+	test_requirement_quad_area2
+	test_requirement_quad_area3
+	test_ask_question_quadrilateral
+	test_disconnected_corners_int
+	test_invalid_corners_char
+	test_invalid_corners_zeros
+	test_rectangle_corners_float
+	test_rectangle_corners_int
+	test_rectangle_corners_list
+	test_rhombus_corners_int
+	test_square_corners_dict
+	test_square_corners_int
+	test_square_corners_tuple
+
+#0006:
+	test_ask_question
+	test_ask_question_with_int
+
+#0007:
+	test_ask_question
+
+#0008:
+	test_ask_question_no_keyword
+
+#0009:
+	test_ask_question_no_mark
+
+#0010:
+	test_ask_partial_question
+	test_ask_question_with_answer
+
+#0011:
+	test_ask_partial_question
+
+#0012:
+	test_ask_partial_question
+	test_ask_question_with_answer
+	test_exception_parameters
+
+#0013:
+	test_ask_partial_question
+	test_ask_question_with_answer
+
+#0014:
+	test_ask_question_no_answer
+
+#0015:
+	test_giving_answer
+
+#0016:
+	test_giving_answer
+
+#0017:
+	test_giving_answer_no_question
+
+#0018:
+	test_giving_answer_known
+
+#0019:
+	test_correcting_answer
+
+#0020:
+	test_correcting_answer
+
+#0021:
+	test_correcting_no_question
+
+#0022:
+	test_requirement_triangle_area
+
+#0023:
+	test_requirement_quad_area
+	test_requirement_quad_area2
+	test_requirement_quad_area3
+
+#0024:
+	test_requirement_tip
+
+#0025:
+	test_requirement_sales_tax
+
+#0026:
+	test_requirement_christmas
+
+#0050:
+	test_log_write
+
+#0051:
+	test_log_write
+
+#0052:
+	test_log_write
+
+#0053:
+	test_performance_fibonacci
+
+#0054:
+	test_performance_quad_area2
+
+#0055:
+	test_performance_christmas
+
+#0056:
+	test_performance_file_info
+
+#0057:
+	test_performance_convert
+
+#0100:
+	test_mock_in_repo
+	test_mock_not2
+	test_mock_not_in_repo
+
+#0101:
+	test_mock_diff
+	test_mock_has_untracked
+	test_mock_non_exist
+	test_mock_repo_root
+	test_mock_status_dirty
+	test_mock_status_update
+	test_mock_untracked
+
+#0102:
+	test_mock_file_info
+
+#0103:
+	test_mock_branch
+
+#0104:
+	test_mock_root
+
+
+Job Stories
+***********
+
+When I ask "What time is it?" I want to be given the current date/time so I can stay up to date:
+	test_job_story_time
+
+When I ask "What is the n digit of fibonacci" I want to receive the answer so I don't have to figure it out myself:
+	test_job_story_fibonacci
+
+When I ask "What is the n digit of pi" I want to receive the answer so I don't have to figure it out myself:
+	test_job_story_pi
+	test_job_story_pi2
+
+When I ask "Please clear memory" I want the application to clear user set questions and answers so I can reset the application:
+	test_job_story_clear
+
+When I say "Open the door hal", I want the application to say "I'm afraid I can't do that <user name>" so I know that is not an option:
+
+When I ask "Convert <number> <units> to <units>"" I want to receive the converted value and units so I can know the answer.:
+
+When I ask for a numberic conversion I want at least 10 different units I can convert from/to:
+	test_job_story_conversions
+
+When I ask "When does Half-Life 3 come out" I want the application to laugh at the assumption that there will be a Half-Life 3.:
+	test_job_story_lol
+
+When I ask "Why is it called the Legend of Zelda when you play as Link" I want the application to explain why.:
+	test_job_story_legend
+
+When I ask "What is the meaning of life, the universe, and everything" I want the application to respond 42.:
+	test_job_story_life
+
+When I ask "What do you know" I want the application to tell me every question it has an answer for.:
+	test_job_story_knowns
+
+When I ask "How do I make a PBJ 2.0" I want the application to tell me how to make one.:
+	test_job_story_pbj
+
